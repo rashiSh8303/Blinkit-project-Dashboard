@@ -30,6 +30,9 @@ Average Rating : The average customer rating for items sold.
 7. All Metrics by outline type :
             Objective : Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of items, Average Rating)
             Chart Type : Matrix card.
+## Database used
+- <a href = "
+
 ## STEPS 
 1. Requirement Gathering / Business Requirements
 2. Data Walkthrough
@@ -41,5 +44,5 @@ Average Rating : The average customer rating for items sold.
 8. Charts Development and Formatting
 9. Dashboard / Report Development
 10. Insights Generation
-# Dashboard
+## Dashboard
 - <a href = "https://github.com/rashiSh8303/Blinkit-project-Dashboard/commit/db1b75ae985ace54d9fa8df587134190bcb9a939"> Link </a>

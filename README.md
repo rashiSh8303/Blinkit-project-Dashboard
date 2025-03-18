@@ -31,7 +31,7 @@ Average Rating : The average customer rating for items sold.
             Objective : Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of items, Average Rating)
             Chart Type : Matrix card.
 ## Database used
-- <a href = "
+- <a href = "https://github.com/rashiSh8303/Blinkit-project-Dashboard/blob/main/Blinkit%20data.xlsx"> Dataset Link </a>
 
 ## STEPS 
 1. Requirement Gathering / Business Requirements
